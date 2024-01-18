@@ -1,0 +1,1 @@
+ip = ["Bastion_IP", "LB_IP"]

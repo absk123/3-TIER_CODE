@@ -1,0 +1,5 @@
+variable "belb" {
+}
+
+variable "data" {
+}

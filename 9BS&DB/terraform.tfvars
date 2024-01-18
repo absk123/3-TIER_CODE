@@ -1,0 +1,3 @@
+dbs = "datasaseserver"
+
+db = "database"

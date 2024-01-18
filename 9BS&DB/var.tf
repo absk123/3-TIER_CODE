@@ -1,0 +1,6 @@
+variable "dbs" {
+}
+
+variable "db" {
+
+}
